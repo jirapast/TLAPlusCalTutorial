@@ -6,7 +6,6 @@ VARIABLES pc, rdi
 
 TypeOk == /\ pc \in {0,1}
           /\ rdi \in {-1} \cup {0,1,2,3,4,5}
-\*          /\ DATA \in {"unspecified",0,1,2,3,4,5}
 
 Init == /\ pc = 0
         /\ rdi = -1
