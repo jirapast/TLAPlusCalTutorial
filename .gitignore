@@ -1,7 +1,1 @@
-.settings/
-
-Model*/
-
-*.launch
-
-.project
+*.toolbox/
